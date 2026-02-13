@@ -40,13 +40,13 @@
 </p>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-z3hir&show_icons=true&locale=en&layout=compact" alt="mustafa-z3hir" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-z3hir&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mustafa-z3hir" />
 </p>
 
 <p align="left">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&locale=en" alt="mustafa-z3hir" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&locale=en&hide_border=true&include_all_commits=true" alt="mustafa-z3hir" />
 </p>
 
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-z3hir&" alt="mustafa-z3hir" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-z3hir&hide_border=true" alt="mustafa-z3hir" />
 </p>
