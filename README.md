@@ -40,7 +40,7 @@
   <a href="https://dev.to/mustafaisik" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafaisik" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mustafa-ışık" target="blank">
+  <a href="https://www.linkedin.com/in/mustafa-i%C5%9Fik-2846a0241/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa işık" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mustafaxisikk" target="blank">
