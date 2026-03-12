@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hi 👋🏼, I'm Mustafa</h1>
 <h3 align="center">Software Developer Candidate | Full-Stack Developer Trainee | Building Real-World Projects</h3>
 
 <p align="center">
