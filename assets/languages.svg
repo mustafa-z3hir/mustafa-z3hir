@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0d1b2a"/><stop offset="1" stop-color="#122b45"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="24" fill="url(#g)" stroke="#1f4968"/>
+<text x="55" y="52" class="title">Top Languages</text><text x="55" y="105" class="muted">JavaScript</text><text x="420" y="105" class="value">27,695 bytes</text><text x="55" y="135" class="muted">Python</text><text x="420" y="135" class="value">9,560 bytes</text><text x="55" y="165" class="muted">Lua</text><text x="420" y="165" class="value">4,180 bytes</text><text x="55" y="195" class="muted">HTML</text><text x="420" y="195" class="value">1,721 bytes</text><text x="55" y="225" class="muted">CSS</text><text x="420" y="225" class="value">930 bytes</text>
+<style>.title{font:700 24px Arial;fill:#eaf6ff}.muted{font:600 16px Arial;fill:#86a9c2}.value{font:700 16px Arial;fill:#62e6ff}</style></svg>
