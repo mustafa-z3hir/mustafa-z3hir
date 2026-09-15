@@ -1,125 +1,279 @@
-<h1 align="center">Hi 👋🏼, I'm Mustafa</h1>
-<h3 align="center">Software Developer Candidate | Full-Stack Developer Trainee | Building Real-World Projects</h3>
+<h1 align="center">Hi 👋🏼, I'm Mustafa Işık</h1>
+
+<h3 align="center">
+  Software Developer | Full-Stack Developer | AI & Automation Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://github.com/mustafa-z3hir">
+    <img src="https://komarev.com/ghpvc/?username=mustafa-z3hir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/mustafa-z3hir?tab=followers">
+    <img src="https://img.shields.io/github/followers/mustafa-z3hir?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+C%23;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;React+%7C+Node.js+%7C+TypeScript+%7C+C%23;AI+%26+Automation;Building+Real-World+Projects;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Developer** focused on building practical, scalable and user-friendly applications.
+
+My interests cover both **software development** and **IT infrastructure**, allowing me to work across different layers of technology — from frontend interfaces and backend APIs to databases, systems and technical support.
+
+* 🔭 Currently working at **PKF Teknoloji**
+* 💻 Building **Full-Stack Web Applications**
+* 🤖 Exploring **AI, automation and AI-assisted development**
+* 🌱 Improving my skills in **React, Node.js, TypeScript and C#**
+* 🗄️ Working with **SQL, MongoDB and PostgreSQL**
+* 🔧 Interested in **IT infrastructure, system administration and technical support**
+* 🚀 Building personal projects to solve real-world problems
+* 📚 Always learning new technologies and development practices
+
+---
+
+## 🧠 What I Work With
+
+```text
+Frontend       → React • TypeScript • JavaScript • HTML • CSS • Bootstrap
+Backend        → Node.js • C# • .NET • REST APIs
+Databases      → PostgreSQL • MySQL • Microsoft SQL Server • MongoDB
+Tools          → Git • GitHub • VS Code • Postman
+AI & Automation→ AI APIs • Prompt Engineering • AI-Assisted Development
+Infrastructure → Microsoft 365 • Networking • System Administration
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Kartal Halı Yıkama
+
+**Corporate Website**
+
+🔗 https://kartalhaliyikamafabrikasi.com/
+
+A modern corporate website developed with:
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 📺 WatchHeaven TV
+
+**Streaming Platform**
+
+🔗 https://watchheaven.net/
+
+A streaming-focused web platform built with:
+
+`React` `Node.js` `JavaScript`
+
+---
+
+### 🎮 AniVerse
+
+**Anime Streaming & Social Platform**
+
+A larger full-stack project concept combining:
+
+* 🎬 Anime streaming
+* 👤 User profiles
+* 💬 Messaging
+* ⭐ Ratings & watchlists
+* 📅 Anime release calendar
+* 🤖 AI-powered features
+* 🔔 Notifications
+* 🛡️ Moderation system
+
+Planned stack:
+
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Redis` `WebSocket`
+
+---
+
+### 🖐️ Z3Motion
+
+**AI-Powered Gesture & Voice Control**
+
+A desktop application concept combining:
+
+* 📷 Camera-based hand tracking
+* 🖐️ Gesture recognition
+* 🎙️ Voice interaction
+* 🤖 AI-assisted controls
+* 🖥️ Desktop application integration
+
+Technology stack:
+
+`Electron` `Vite` `Node.js` `Python` `AI`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-z3hir&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mustafa-z3hir&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-z3hir&bg_color=transparent&color=0e75b6&line=0e75b6&point=1f6feb&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafa-z3hir&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/>
+</a>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+</a>
+
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+I'm particularly interested in using AI as a development tool rather than simply consuming AI products.
+
+Areas I'm exploring:
+
+* 🧠 Prompt Engineering
+* 🤖 AI-Assisted Development
+* ⚙️ AI Automation
+* 🔌 AI API Integration
+* 🧪 Multi-Model Evaluation
+* 🛠️ AI-Powered Developer Tools
+* 🎙️ Voice & Vision AI
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer — PKF Teknoloji
+
+Working across software development and IT operations, including:
+
+* Full-stack web development
+* Backend and API development
+* Database management
+* Internal tools and automation
+* IT infrastructure
+* System administration
+* Technical support
+* Hardware & network troubleshooting
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mustafa-işik-643376408">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/mustafa-z3hir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://dev.to/mustafaisik">
+<img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+</a>
+
+<a href="https://instagram.com/mustafaxisikk">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>💻 Build. Learn. Improve. Repeat.</strong>
 </p>
 
 <p align="center">
-  🔭 Şu anda <strong>PKF Teknoloji</strong>'de çalışıyorum<br>
-  🌱 <strong>React</strong> ve <strong>Node.js</strong> öğreniyorum<br>
-  💬 Bana <strong>JavaScript</strong> ve <strong>C#</strong> hakkında soru sorabilirsiniz
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mustafa-z3hir&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-z3hir" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mustafa-z3hir" alt="mustafa-z3hir" />
-  </a> 
-</p>
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-z3hir&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-### 🚀 My Projects & Live Works
-- 🌐 **Kartal Halı Yıkama:** [kartalhaliyikamafabrikasi.com](https://kartalhaliyikamafabrikasi.com/)
-  - *HTML, CSS, JavaScript ile geliştirilmiş kurumsal web sitesi*
-- 📺 **WatchHeaven TV:** [watchheaven.net](https://watchheaven.net/)
-  - *React + Node.js ile geliştirilmiş streaming platformu*
-- 🏗️ **Currently working on:** Full-Stack Web Applications & Modern UI Designs
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/mustafaisik" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustafaisik" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mustafa-işik-643376408" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa işık" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mustafaxisikk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafaxisikk" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-z3hir&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mustafa-z3hir" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&locale=en&hide_border=true&include_all_commits=true" alt="mustafa-z3hir" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-z3hir&hide_border=true" alt="mustafa-z3hir" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-İstanbul-success" alt="Lives" />
-  <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-orange" alt="Languages" />
+  <i>Turning ideas into real-world software.</i>
 </p>
