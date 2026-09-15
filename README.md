@@ -1,128 +1,237 @@
 <div align="center">
 
-# Hey 👋🏼, I'm Mustafa Işık
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mustafa%20I%C5%9F%C4%B1k&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Automation&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Software Developer • Full-Stack Development • AI & Automation
+<br>
 
-I build real-world software, experiment with AI, and turn ideas into working products.
+<a href="https://github.com/mustafa-z3hir">
+<img src="https://komarev.com/ghpvc/?username=mustafa-z3hir&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mustafa-z3hir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mustafa-z3hir?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-</p>
+<a href="https://github.com/mustafa-z3hir?tab=followers">
+<img src="https://img.shields.io/github/followers/mustafa-z3hir?label=FOLLOWERS&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+C%23;AI+%26+Automation+Enthusiast;Building+Real-World+Software;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```text
-Mustafa Işık
-├── Software Developer
-│   ├── Full-Stack Development
-│   ├── Backend Systems
-│   ├── REST APIs
-│   ├── Database Design
-│   └── Web Applications
-│
-├── AI & Automation
-│   ├── AI-Assisted Development
-│   ├── Prompt Engineering
-│   ├── Multi-Model AI Evaluation
-│   └── Workflow Automation
-│
-└── IT & Infrastructure
-    ├── System Administration
-    ├── Microsoft 365
-    ├── Network Infrastructure
-    ├── Hardware & Deployment
-    ├── Technical Support
-    ├── CCTV / Access Control
-    └── PDKS Systems
-```
+## 👨‍💻 SOFTWARE DEVELOPER
 
-I enjoy working at the intersection of **software development, AI, and IT infrastructure**.
+**Full-Stack Development • AI & Automation • IT Infrastructure**
 
-My focus is building practical systems rather than just writing code — from web applications and APIs to automation tools, AI-powered workflows, and infrastructure solutions.
+I build practical software, experiment with AI, and turn ideas into working products.
+
+</div>
 
 ---
 
-## 🚀 Currently
+## 🧠 About Me
 
-* 💻 Working as a **Software Developer & IT Specialist at PKF Teknoloji**
-* 🧩 Building full-stack applications and backend systems
-* 🤖 Exploring AI-powered development and automation
-* ⚡ Working with **React, TypeScript, Node.js and C#**
-* 🗄️ Working with **PostgreSQL, MySQL, MSSQL and MongoDB**
-* 🧠 Experimenting with multi-model AI workflows and evaluation
-* 🛠️ Developing personal software products and experimental projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software
+
+* Full-Stack Development
+* Backend Systems
+* REST APIs
+* Database Design
+* Web Applications
+* Internal Tools
+* Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+* AI-Assisted Development
+* Prompt Engineering
+* Multi-Model Evaluation
+* AI Workflow Automation
+* Developer Productivity
+* Experimental AI Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ IT & Infrastructure
+
+* System Administration
+* Microsoft 365
+* Network Infrastructure
+* Server Maintenance
+* Hardware Deployment
+* Technical Support
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Systems
+
+* CCTV
+* Access Control
+* PDKS
+* Troubleshooting
+* Infrastructure Support
+* End-User Support
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What I'm Doing Now
+
+<table>
+<tr>
+<td>💼</td>
+<td><b>PKF Teknoloji</b></td>
+<td>Software Development & IT</td>
+</tr>
+<tr>
+<td>⚡</td>
+<td><b>Full-Stack</b></td>
+<td>React • TypeScript • Node.js • C#</td>
+</tr>
+<tr>
+<td>🗄️</td>
+<td><b>Databases</b></td>
+<td>PostgreSQL • MySQL • MSSQL • MongoDB</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>AI</b></td>
+<td>Automation • Prompt Engineering • Multi-Model Workflows</td>
+</tr>
+<tr>
+<td>🛠️</td>
+<td><b>Personal Projects</b></td>
+<td>Building and experimenting with new software products</td>
+</tr>
+</table>
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,c,python,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,c,python,html,css" />
+
+<br><br>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,bootstrap,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,redux,bootstrap,tailwind" />
+
+<br><br>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+
+<br><br>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-**Also experienced with:** Microsoft SQL Server (MSSQL)
+<br><br>
 
 ### Tools & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,visualstudio,npm,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,visualstudio,npm,postman" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Microsoft SQL Server` • `Microsoft 365` • `REST APIs` • `PDKS` • `CCTV` • `Access Control`
+
+</div>
 
 ---
 
-## 🤖 AI & Automation
+# 🤖 AI & Automation
 
-I use AI as a development multiplier rather than simply as a chatbot.
+<div align="center">
 
-```text
-AI Development
-├── Prompt Engineering
-├── AI-Assisted Coding
-├── Multi-Model Evaluation
-├── AI Workflow Automation
-├── Developer Productivity
-└── Experimental AI Applications
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=AI%20%26%20Automation&fontSize=30&fontAlignY=55&color=0D1117&fontColor=58A6FF" width="100%" />
 
-Current interests include:
+</div>
+
+I use AI as a **development multiplier**, not simply as a chatbot.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**Prompt Engineering**
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+
+**AI-Assisted Coding**
+
+</td>
+<td align="center" width="25%">
+
+### 🔄
+
+**Workflow Automation**
+
+</td>
+<td align="center" width="25%">
+
+### 🔬
+
+**Multi-Model Evaluation**
+
+</td>
+</tr>
+</table>
+
+### Current Interests
 
 * Multi-AI consensus workflows
 * AI-assisted software development
 * Prompt engineering
-* Automated research and analysis
+* Automated research & analysis
 * AI-powered developer tools
 * Local-first AI applications
 * Human + AI workflow optimization
+* Computer vision experiments
 
 ---
 
 # ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🧼 Kartal Halı Yıkama
 
@@ -130,52 +239,50 @@ A modern web project focused on creating a clean and responsive digital presence
 
 **Focus**
 
-* Responsive web design
-* Modern UI
-* Service presentation
-* Contact / conversion-oriented structure
-* Performance and usability
+`Responsive UI` `Modern UX` `Service Presentation` `Performance`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 📺 WatchHeaven TV
 
-A streaming-oriented web application concept focused on organizing and presenting digital video content through a modern interface.
+A streaming-oriented web application concept focused on presenting and organizing digital video content through a modern interface.
 
 **Focus**
 
-* Modern streaming UI
-* Content organization
-* Responsive experience
-* Web application architecture
+`Streaming UI` `Content Organization` `Responsive Design` `Web Architecture`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ## 🌐 AniVerse
 
-An anime-focused streaming and social platform concept combining content discovery with community features.
+An anime streaming and social platform concept combining content discovery with community features.
 
-**Planned ecosystem**
+**Planned**
 
-```text
-AniVerse
-├── Streaming
-├── User Profiles
-├── Watch Together
-├── Direct Messages
-├── Ratings & Reviews
-├── Anime Calendar
-├── AI Scene / Clip Tools
-├── MAL Integration
-├── Music / Opening Discovery
-└── Moderation & Community Systems
-```
+* Streaming
+* User Profiles
+* Watch Together
+* Direct Messages
+* Ratings & Reviews
+* Anime Calendar
+* AI Scene / Clip Tools
+* MAL Integration
+* Music / Opening Discovery
+* Moderation Systems
 
 **Stack**
 
-`Node.js` • `TypeScript` • `Express` • `Prisma` • `Next.js` • `Tailwind CSS` • `PostgreSQL` • `Redis` • `WebSocket` • `Docker`
+`Node.js` `TypeScript` `Express` `Prisma` `Next.js` `Tailwind` `PostgreSQL` `Redis` `WebSocket` `Docker`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🖐️ Z3Motion
 
@@ -183,53 +290,63 @@ A desktop AI project exploring camera-based gesture interaction and voice-contro
 
 **Concept**
 
-```text
-Camera
-   ↓
-Hand / Gesture Detection
-   ↓
-Interaction Layer
-   ↓
-AI Processing
-   ↓
-Voice / Application Control
-```
+`Camera` → `Gesture Detection` → `Interaction Layer` → `AI` → `Voice / App Control`
 
 **Technology**
 
-`Electron` • `Vite` • `TypeScript` • `Node.js` • `Python` • `AI`
+`Electron` `Vite` `TypeScript` `Node.js` `Python` `AI`
 
-The project is designed around a local-first approach with an emphasis on privacy, usability and AI-assisted interaction.
+</td>
+</tr>
+</table>
 
 ---
 
 # 💼 Professional Experience
 
-### Software Developer & IT Specialist — PKF Teknoloji
+<div align="center">
 
-Working across both **software development and IT infrastructure**.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=PKF%20Teknoloji&fontSize=28&fontAlignY=55&color=0D1117&fontColor=58A6FF" width="100%" />
 
-**Software**
+</div>
 
-* Full-stack web development
-* Backend development
+### Software Developer & IT Specialist
+
+Working across **software development and IT infrastructure**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software
+
+* Full-Stack Web Development
+* Backend Development
 * REST APIs
-* Database systems
-* Internal tools
-* AI-assisted development
-* Automation workflows
+* Database Systems
+* Internal Applications
+* AI-Assisted Development
+* Automation Workflows
 
-**IT**
+</td>
 
-* Microsoft 365 administration
-* Server maintenance
-* Network infrastructure
-* Hardware deployment
-* Technical troubleshooting
-* End-user support
-* CCTV systems
-* Access control
-* PDKS systems
+<td width="50%" valign="top">
+
+### 🖥️ IT
+
+* Microsoft 365 Administration
+* Server Maintenance
+* Network Infrastructure
+* Hardware Deployment
+* Technical Troubleshooting
+* End-User Support
+* CCTV
+* Access Control
+* PDKS
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -237,9 +354,17 @@ Working across both **software development and IT infrastructure**.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/mustafa-z3hir">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-z3hir&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mustafa-z3hir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Mustafa's GitHub Stats" />
+
+</a>
+
+<a href="https://github.com/mustafa-z3hir">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-z3hir&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+</a>
 
 </div>
 
@@ -249,7 +374,7 @@ Working across both **software development and IT infrastructure**.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mustafa-z3hir&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=mustafa-z3hir&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -259,7 +384,7 @@ Working across both **software development and IT infrastructure**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-z3hir&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa%20I%C5%9F%C4%B1k%20-%20Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-z3hir&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Mustafa%20I%C5%9F%C4%B1k%20-%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
@@ -269,7 +394,17 @@ Working across both **software development and IT infrastructure**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mustafa-z3hir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mustafa-z3hir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mustafa-z3hir/mustafa-z3hir/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 
 </div>
 
@@ -277,23 +412,44 @@ Working across both **software development and IT infrastructure**.
 
 # 🛠️ What I'm Building
 
-```text
-2026
-│
-├── Full-Stack Applications
-│
-├── AI-Powered Developer Tools
-│
-├── AI Automation Workflows
-│
-├── Z3Motion
-│
-├── AniVerse
-│
-└── Experimental Software Projects
-```
+<div align="center">
 
-I like taking projects from **idea → architecture → development → deployment**.
+<table>
+<tr>
+<td align="center">💻</td>
+<td><b>Full-Stack Applications</b></td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>AI-Powered Developer Tools</b></td>
+</tr>
+<tr>
+<td align="center">⚙️</td>
+<td><b>AI Automation Workflows</b></td>
+</tr>
+<tr>
+<td align="center">🖐️</td>
+<td><b>Z3Motion</b></td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b>AniVerse</b></td>
+</tr>
+<tr>
+<td align="center">🧪</td>
+<td><b>Experimental Software Projects</b></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Idea → Architecture → Development → Deployment**
+
+</div>
 
 ---
 
@@ -302,15 +458,15 @@ I like taking projects from **idea → architecture → development → deployme
 <div align="center">
 
 <a href="https://github.com/mustafa-z3hir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mustafa-işik-643376408/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://dev.to/mustafaisik">
-  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
 </div>
@@ -319,8 +475,10 @@ I like taking projects from **idea → architecture → development → deployme
 
 <div align="center">
 
-### ⚡ Build. Automate. Experiment. Repeat.
+### ⚡ BUILD. AUTOMATE. EXPERIMENT. REPEAT.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer" width="100%" />
 
 </div>
